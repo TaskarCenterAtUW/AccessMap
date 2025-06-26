@@ -8,9 +8,6 @@ AccessMap-specific software projects used to deploy AccessMap:
 
 - [`unweaver`: our flexible routing engine](https://github.com/nbolten/unweaver)
 
-- [AccessMap Users API](https://github.com/accessmap/accessmap-api)
-
-- [AccessMap Data ETL Pipeline (to get data)](https://github.com/accessmap/accessmap-data)
 
 The full pipeline of how AccessMap is deployed can be seen in this diagram:
 
