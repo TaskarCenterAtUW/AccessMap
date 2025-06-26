@@ -4,7 +4,7 @@ This repo contains all of the infrastructure needed to create and run AccessMap 
 for the data, which can be generated using the `opensidewalks-data` repo. These are the
 AccessMap-specific software projects used to deploy AccessMap:
 
-- [AccessMap Web App (React-based)](https://github.com/accessmap/accessmap-webapp)
+- [AccessMap Web App (React-based)](https://github.com/TaskarCenterAtUW/AccessMapWebapp)
 
 - [`unweaver`: our flexible routing engine](https://github.com/nbolten/unweaver)
 
