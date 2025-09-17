@@ -1,0 +1,22 @@
+{
+  "data_format": 1,
+  "data_url": "https://raw.githubusercontent.com/TaskarCenterAtUW/AccessMap/main/taginfo.json",
+  "project": {
+    "name": "AccessMap",
+    "description": "AccessMap is an accessibility-forward, customizable, multimodal router.",
+    "project_url": "https://github.com/TaskarCenterAtUW/AccessMap",
+    "icon_url": "https://raw.githubusercontent.com/TaskarCenterAtUW/tcat-wiki/main/docs/resources/images/accessmap/accessmap-logo.png",
+    "contact_name": "Taskar Center for Accessible Technology at the University of Washington",
+    "contact_email": "uwtcat@uw.edu"
+  },
+  "tags": [
+    {
+      "key": "highway",
+      "value": "footway"
+    },
+    {
+      "key": "footway",
+      "value": "sidewalk"
+    }
+  ]
+}
