@@ -15,6 +15,7 @@
 	"tags": [
 		{ "key": "amenity", "value": "bench", "object_types": [ "node" ] },
 		{ "key": "amenity", "value": "waste_basket", "object_types": [ "node" ] },
+		{ "key": "area", "value": "yes", "object_types": [ "area" ] },
 		{ "key": "barrier", "value": "bollard", "object_types": [ "node" ] },
 		{ "key": "barrier", "value": "kerb", "object_types": [ "node" ] },
 		{ "key": "barrier", "value": "fence", "object_types": [ "way" ] },
